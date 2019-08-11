@@ -6,7 +6,7 @@ client = Client(account_sid, auth_token)
 
 message = client.messages \
                 .create(
-                     body="Twilio is here",
+                     body="Hey there, twilio is working fine and it's awesome",
                      from_='+',
                      to='+'
                  )
