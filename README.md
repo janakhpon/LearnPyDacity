@@ -18,10 +18,10 @@ Get into root folder
 
     cd Pyassistant
 
-Install modulues using [pip](https://www.npmjs.com/)
+Install modulues using [pip](https://pypi.org/project/pip/)
 
     pip install 'package_name_here'
 
-Install modules using [pip3](https://yarnpkg.com/en/)
+Install modules using [pip3](https://pypi.org/project/pip/)
 
     pip3 install 'package_name_here'
